@@ -1,0 +1,7 @@
+D:\class\oop2\FinalLab2\FinalLab2\bin\Debug\FinalLab2.exe.config
+D:\class\oop2\FinalLab2\FinalLab2\bin\Debug\FinalLab2.exe
+D:\class\oop2\FinalLab2\FinalLab2\bin\Debug\FinalLab2.pdb
+D:\class\oop2\FinalLab2\FinalLab2\obj\Debug\FinalLab2.csprojAssemblyReference.cache
+D:\class\oop2\FinalLab2\FinalLab2\obj\Debug\FinalLab2.csproj.CoreCompileInputs.cache
+D:\class\oop2\FinalLab2\FinalLab2\obj\Debug\FinalLab2.exe
+D:\class\oop2\FinalLab2\FinalLab2\obj\Debug\FinalLab2.pdb
